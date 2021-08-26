@@ -10,3 +10,4 @@ Amo jogos(LOL, PBGE) e tecnologias
 Cinefolo de carteirinha.
 Tudo começou no NEXT, 
 agora estou me formando em Desenvolvedor Junior
+Phyton Git Github Java
