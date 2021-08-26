@@ -6,8 +6,8 @@ Formado em Redes de Computadores, Pós em Gestão de Projeto, tenho varios curso
 
 
 ## Curiosidades:
-Amo jogos(LOL, PBGE) e tecnologias
+Amo jogos(LOL, PUBG,FreeFire) e tecnologias
 Cinefolo de carteirinha.
 Tudo começou no NEXT, 
-agora estou me formando em Desenvolvedor Junior
+Agora estou me formando em Desenvolvedor Junior
 Phyton Git Github Java
